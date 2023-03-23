@@ -7,7 +7,7 @@
 </div>
 
 <div align='left'>
--💻Engineering Student [Computer and Network Engineering at EMSI Casablanca](at EMSI Casablanca)
+-💻Engineering Student Computer and Network Engineering at EMSI Casablanca
 
 -⚡Interested in **Spring boot | Angular**
 </div>
