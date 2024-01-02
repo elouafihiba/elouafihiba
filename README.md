@@ -2,16 +2,14 @@
 <h1 align="center">Hi 👋, I'm EL-OUAFI HIBA</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-<div align='center'>
-<img  alt="Coding" width="400"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"
-</div>
 
-<div align='center'>
+<img  align='right' alt="Coding" width="400"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharon-kathambi&label=Profile%20views&color=0e75b6&style=flat" alt="sharon-kathambi" /> </p>
 💻 Computer and Network Engineering Student at EMSI Casablanca
 
 ⚡Interested in **Spring boot | Angular**
-</div>
-
+<p align="left">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/hiba-el-ouafi-0739b9155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiba el ouafi" height="30" width="40" /></a>
