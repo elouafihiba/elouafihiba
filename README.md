@@ -1,5 +1,5 @@
 
-<h1 align="center">## *Hi there!* 👋, I'm EL-OUAFI HIBA</h1>
+<h1 align="center">## Hi there! 👋, I'm EL-OUAFI HIBA</h1>
 <h3 align="center">A passionate Java full stack developer from Morocco</h3>
 
 <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="450" height="300"/>
