@@ -60,7 +60,7 @@
 ### *Connect with Me:*
 
 <div> 
-  <a href="https://www.linkedin.com/in/elouafihiba/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hiba-el-ouafi-0739b9155/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>&nbsp;
   
  
 
