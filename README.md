@@ -10,7 +10,7 @@
 🎓 &nbsp;A final year student at EMSI.\
 ⭐ &nbsp;You can find my projects in the repositories section.\
 💬 &nbsp;Feel free to connect with me.\
-🧩 &nbsp;A coding lover . Always up for a new challenge.\
+🧩 &nbsp;A coding lover . Always up for a new challenges.
 
 <img src="https://github.com/elouafihiba/elouafihiba/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
 
